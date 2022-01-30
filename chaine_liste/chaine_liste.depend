@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1606061361 source:d:\my code blocks projects\sdllib\chaine_liste\chaine_liste.c
+	<stdio.h>
+	<stdlib.h>
+	"chaine_liste.h"
+
+1606061361 d:\my code blocks projects\sdllib\chaine_liste\chaine_liste.h
+
+1606061096 source:d:\my code blocks projects\sdllib\chaine_liste\main.c
+	<stdio.h>
+	<stdlib.h>
+	"chaine_liste.h"
+

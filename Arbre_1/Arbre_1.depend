@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1612615064 source:d:\my code blocks projects\sdllib\arbre_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Arbre_1.h"
+	<math.h>
+
+1612614432 d:\my code blocks projects\sdllib\arbre_1\arbre_1.h
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1605103102 source:d:\my code blocks projects\sdllib\lists_chainee_fonctions_simple\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctons_simple.h"
+
+1605102933 d:\my code blocks projects\sdllib\lists_chainee_fonctions_simple\fonctons_simple.h
+
+1605103077 source:d:\my code blocks projects\sdllib\lists_chainee_fonctions_simple\fonction_simple.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctons_simple.h"
+

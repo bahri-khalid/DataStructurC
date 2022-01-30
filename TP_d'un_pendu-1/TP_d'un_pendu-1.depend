@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1601923804 source:d:\my code blocks project\tp_d'un_pendu-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"functions.h"
+
+1601922452 source:d:\my code blocks project\tp_d'un_pendu-1\functions.c
+
+1601922563 d:\my code blocks project\tp_d'un_pendu-1\functions.h
+
+1601852671 d:\my code blocks project\tp_d'un_pendu-1\functions.c
+

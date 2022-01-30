@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1613584652 source:d:\my code blocks projects\sdllib\preparation_exam\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1613583036 d:\my code blocks projects\sdllib\preparation_exam\functions.h
+
+1613583200 source:d:\my code blocks projects\sdllib\preparation_exam\functions.c
+	"functions.h"
+	<stdio.h>
+	<stdlib.h>
+

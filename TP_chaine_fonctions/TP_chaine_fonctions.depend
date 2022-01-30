@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1613569089 source:d:\my code blocks projects\sdllib\tp_chaine_fonctions\main.c
+	<stdio.h>
+	<stdlib.h>
+	"poly_funs.h"
+	<math.h>
+
+1613569023 d:\my code blocks projects\sdllib\tp_chaine_fonctions\poly_funs.h
+
+1613569026 source:d:\my code blocks projects\sdllib\tp_chaine_fonctions\poly_funs.c
+	"poly_funs.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
